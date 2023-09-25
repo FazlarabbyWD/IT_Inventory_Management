@@ -1,0 +1,13 @@
+{
+    "name": "ContactTypes",
+    "alias": "contacttypes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ContactTypes\\Providers\\ContactTypesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

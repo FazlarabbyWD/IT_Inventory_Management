@@ -1,0 +1,13 @@
+{
+    "name": "Offices",
+    "alias": "offices",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Offices\\Providers\\OfficesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

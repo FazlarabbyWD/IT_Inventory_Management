@@ -1,0 +1,15 @@
+{
+    "Categories": true,
+    "Brands": true,
+    "Contacts": true,
+    "Products": true,
+    "Users": true,
+    "SpecificationTypes": true,
+    "Settings": true,
+    "Offices": true,
+    "ContactTypes": true,
+    "Distributions": true,
+    "Gatepasses": true,
+    "Reports": true,
+    "Payments": true
+}
